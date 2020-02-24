@@ -8,6 +8,6 @@
   "authorName": "Alexander Bovino",
   "enableThirdPartyComments": false,
   "paymentPointer": "$coil.xrptipbot.com/",
-  "faviconPath": "/images/favicon.png",
+  "faviconPath": "favicon.ico",
   "maxPostsPerPage": 5
 }
