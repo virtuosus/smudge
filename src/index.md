@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Alexander Bovino
+title: Alex Bovino
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: ""
 ---
 Hi, I'm Alex, a Linux Systems and Infrastructure Engineer with InfoSec thrown in.
