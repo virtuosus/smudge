@@ -72,19 +72,19 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Alex Bovino"
+        Title: "Who am I...?"
         Content: >
-            .
-            - .
-            - .
-            - .
+            My name is Alex Bovino, I am a Senior Systems Administrator with over 17 years of experience under belt.
+            An IT infrastruture specialist, including Linux (Debian/Red Hat), Windows, IT Security, IT Networking and IT Automation.
+            A beloved fan of F1 since the days of Senna, Prost and Mansell.
+            An avid Skier who regularly visits the Alps, especially Les Trois Vallees.
     socialIcons:
-        - name: github
-          url: "https://github.com/virtuosus"
+        - name: Linkedin
+          url: "https://www.linkedin.com/in/alexbovino/"
         - name: KoFi
           url: "https://ko-fi.com/virtuosus"
-        - name: RSS
-          url: "index.xml"
+        - name: Twitter
+          url: "https://twitter.com/v_rtuosus"
 
     # label:
     #     text: "Home"
