@@ -74,10 +74,9 @@ params:
     homeInfoParams:
         Title: "Who am I...?"
         Content: >
-            My name is Alex Bovino, I am a Senior Systems Administrator with over 17 years of experience under my belt. <br />
-            An IT infrastruture specialist, including Linux (Debian/Red Hat), Windows, IT Security, IT Networking and IT Automation. <br />
-            A beloved fan of F1 since the days of Senna, Prost and Mansell. <br />
-            An avid Skier who regularly visits the Alps, especially Les Trois Vallees. <br />
+            My name is Alex Bovino, I am a Senior Infrastructure Engineer with over 17 years of experience.<br />
+            A beloved fan of F1 since the days of Senna, Prost and Mansell.<br />
+            An avid Skier who regularly visits the Alps, especially Les Trois Vallees.<br />
     socialIcons:
         - name: Linkedin
           url: "https://www.linkedin.com/in/alexbovino/"
